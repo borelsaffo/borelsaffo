@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Automation on 5G at Orange
 - 💞️ I’m looking a new position In term of Telco-cloud Engineer; DevOps, Admin system and pentester
 - 📫 How to reach me: https://www.linkedin.com/in/borel-saffo-b74596149/
+-   my YouTube Channel : https://www.youtube.com/channel/UCCtKxaWSUSfSRUH4t-6lE2A
 
 <!---
 borelsaffo/borelsaffo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
