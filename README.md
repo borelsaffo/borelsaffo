@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @borelsaffo
+- 👋 Hi, I’m borel saffo NGOUANDJO
 - 👀 I’m interested in Telco-cloud, DevOps, Automation (ansible, terraform, Netconf), penatration testing (Root-me : brel)
 - 🌱 I’m currently learning Automation on 5G at Orange innovation
 - 💞️ I’m looking a new position In term of Telco-cloud Engineer; DevOps, Admin system and pentester
